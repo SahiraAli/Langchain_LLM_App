@@ -1,4 +1,4 @@
-# LangChain LLM App (Async Tutorial Project)
+# Blog Title Generator (LangChain LLM App)
 
 This repository contains a tutorial-based LangChain application demonstrating:
 
